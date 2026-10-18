@@ -1,10 +1,9 @@
-// Firebase-Webkonfiguration hier aus Firebase Console → Projekteinstellungen → Deine Apps eintragen.
-// Diese Werte sind Projektkennungen, keine Admin-Schlüssel. Niemals Service-Account-Schlüssel im Browser verwenden.
-export const firebaseConfig = {
-  apiKey: "HIER_API_KEY_EINTRAGEN",
-  authDomain: "HIER-PROJEKT.firebaseapp.com",
-  projectId: "HIER-PROJEKT-ID",
-  storageBucket: "HIER-PROJEKT.firebasestorage.app",
-  messagingSenderId: "HIER_SENDER_ID",
-  appId: "HIER_APP_ID"
+const firebaseConfig = {
+  apiKey: "AIzaSyBXNGPWx8dNzcIbdpFyyFIojTQsXjVAbqU",
+  authDomain: "bma-web-6ca39.firebaseapp.com",
+  projectId: "bma-web-6ca39",
+  storageBucket: "bma-web-6ca39.firebasestorage.app",
+  messagingSenderId: "30372461307",
+  appId: "1:30372461307:web:141ad1851a719fd2bd8e5e",
+  measurementId: "G-FJ4NS99F9N"
 };
