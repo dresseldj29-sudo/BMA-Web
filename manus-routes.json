@@ -1,6 +1,0 @@
-{
-  "routes": [
-    { "path": "/", "file": "index.html" },
-    { "path": "/api/*", "handler": "server.js" }
-  ]
-}
